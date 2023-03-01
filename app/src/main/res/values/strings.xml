@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mornhouse</string>
+    <string name="empty">Edit text is empty</string>
+    <string name="hint" tools:ignore="TypographyDashes">Введіть число 1-10000</string>
+    <string name="get_facts">Отримати факт</string>
+    <string name="random_facts">Отримати факт про випадкове число</string>
+</resources>
